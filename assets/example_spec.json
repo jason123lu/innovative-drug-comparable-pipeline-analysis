@@ -1,0 +1,16 @@
+{
+  "project_name": "示例项目：管线A适应症A",
+  "make_indicator": false,
+  "targets": [
+    {
+      "target_name": "管线A",
+      "indication_short": "适应症A",
+      "sheet_key": "管线A_适应症A",
+      "comparable_sheet": "管线A的可比管线",
+      "make_quant": true,
+      "make_overview": false,
+      "make_simplified": false,
+      "include_guidance_rows": false
+    }
+  ]
+}
